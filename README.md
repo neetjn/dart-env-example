@@ -1,2 +1,2 @@
-# dart-env-example
-An example of how to leverage and facilitate environmental variables with Dart.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
